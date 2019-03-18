@@ -1,0 +1,5 @@
+Im getting: an error
+
+  File "/home/u1335324/flask-socketio-celery-example/app.py", line 16, in <module>
+    from flask.ext.socketio import (
+ImportError: No module named ext.socketio
